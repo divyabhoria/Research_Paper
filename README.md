@@ -1,10 +1,10 @@
 **README**
 
 **1. Roll Numbers and Names**
-2210990293 – Divya Bhoria
-2210990297 – Divyanoor Singh Saini
-2210990428 – Jaikirat Dev
-2210990525 – Kshitij Gulati
+2210990293 – Divya Bhoria  
+2210990297 – Divyanoor Singh Saini  
+2210990428 – Jaikirat Dev  
+2210990525 – Kshitij Gulati  
 Mentor - Dr. Gurpreet Singh associate professor Chitkara University
 
 **2. Project Title**
